@@ -11,7 +11,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <header>
-        <h2>My Header</h2>
+        <h2>My Header test - 123</h2>
       </header>
       <main className={styles.main}>
         <h1 className={styles.title}>
